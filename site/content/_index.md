@@ -6,7 +6,7 @@ subtitle: Le projet DroneEduc a pour objectif de développer des modalités
   positionne sur des problématiques d’observation environnementale à partir de
   drones marins, aériens et sous-marins. Il associe, autour d’un même vecteur
   d’étude, des étudiants de plusieurs formations de La Rochelle Université.
-image: /img/home-jumbotron.jpg
+image: img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
@@ -31,6 +31,8 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: site/static/img/droneeduc-logo.svg
+    text: Test du logo
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
